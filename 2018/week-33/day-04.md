@@ -16,7 +16,7 @@ ___
 
 ## **Assignments**
 
-### 1. Clone the game-day repository on Github to your local computer and see the game-day assignments from Visual Code going forward. 
+### 1. Clone the game-day repository on Github to your local computer and see the game-day assignments from Visual Code going forward.  
 
 ### 2. Create two new repositories on your computer and create a workspace for each of them. The repository names should be: `mockups` and `dribble`. The workspace names should be `ux-mockups` and `dribble-space` respectively mapped to the repositories. So the `mockups` repository folder should be inside `ux-mockups` workspace and the `dribble` repository folder should be inside `dribble-space` workspace.
 
