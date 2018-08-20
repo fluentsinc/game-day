@@ -6,7 +6,7 @@
 
 ### **Codename:** Project Iceberg
 
-### You can only see 10% of an iceberg. About 90% of an iceberg is below the surface of the water. 
+### You can only see 10% of an iceberg. The remaining 90% of an iceberg is below the surface of the water. 
 
 ___
 ## **Assignee** 
