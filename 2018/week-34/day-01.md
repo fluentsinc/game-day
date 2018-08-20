@@ -2,7 +2,7 @@
 
 ### August 20th 2018 - August 23rd 2018
 
-### This Game Day assignment might take several days depending on your skill set. There's no way we can go forward without finishing these assignments as the skill sets assigned here are an absolute must for every programmer trying to take things to a higher level. 
+### This Game Day assignment might take several days depending on your skill set. There's no way we can go forward without you finishing up these assignments as the skill sets assigned here are an absolute must for every programmer trying to take things to a higher level. 
 
 ### **Codename:** Project Iceberg
 
