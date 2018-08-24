@@ -20,7 +20,7 @@ ___
 
 ## **Assignments**
 
-1. ### Create a repository named "memento" on your computer. Create a workspace for this repository as well. 
+1. ### Create a repository named "memento" on your computer. Create a workspace for this repository as well. Push the repository to your Github profile. 
 
 2. ### Your initial commit should contain a screenshot named "config-list" using the snipping tool. This screenshot should be the terminal output of the configuration list for the "memento" repository focused on "user.name" and "user.email". See below for example:
 
