@@ -6,7 +6,7 @@
 
 ### **Codename:** Project Messup
 
-### Mess up means you've mishandled a situation
+### Mess up means to mishandle a situation
 ___
 
 ## **Assignee** 
@@ -25,4 +25,4 @@ ___
 
 3. ### Do experiment-#1 but with the commit author name and email that matches your Github profile. Post `git log` screenshots to Slack.
 
-4. ### Create a repository named "iceland". Push the initial commit to Github. Your commit author name and email should match your Github profile. Let's say, in the assignment the repository name was actually "island" and you've messed up creating a wrong repository name. Post screenshots of `git log` output to Slack. Again, we're going to fix it the easy way. First of all, rename your repository name from "settings" tab on your repository. You should not look to change your repository name from your profile "settings" since it doesn't offer the "rename your repository" option. Second, delete the repository from your computer and from your workspace. Clone the repository with the corrected name to your computer and add the repository to the workspace you've created in experiment-#1. Post `git log` output to Slack. 
+4. ### Create a repository named "iceland". Push the initial commit to Github. Your commit author name and email should match your Github profile. Let's say, in the assignment the repository name was actually "island" and you've messed up creating a wrong repository name. Post screenshots of `git log` output to Slack. Again, we're going to fix it the easy way. First of all, rename your repository name from the "settings" tab on your repository. You should not look to change your repository name from your profile "settings" since it doesn't offer the "rename your repository" option. Second, delete the repository from your computer and from your workspace. Clone the repository with the corrected name to your computer and add the repository to the workspace you've created in experiment-#1. Post `git log` output to Slack. 
