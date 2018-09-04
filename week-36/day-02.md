@@ -21,5 +21,5 @@ ___
 
 1. ### You would receive files on `reachout-your-last-name`. 
 
-2. ### Commit the above received files to `livehtml` repository with a message "second=-nature"  
+2. ### Commit the above received files to `livehtml` repository with a message "second-nature"  
 
