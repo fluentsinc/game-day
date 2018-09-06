@@ -1,4 +1,4 @@
-# **Game Day Assignments 2018 Week 35 Day 02**
+# **Game Day Assignments 2018 Week 36 Day 02**
 
 ### Game Day 15
 
