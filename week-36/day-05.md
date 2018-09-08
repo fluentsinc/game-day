@@ -1,6 +1,6 @@
 # **Game Day Assignments 2018 Week 36 Day 05, Day 06**
 
-### Game Day 16, 17
+### Game Day 17, 18
 
 ### **Date:** September 7th 2018 - September 8th 2018
 
